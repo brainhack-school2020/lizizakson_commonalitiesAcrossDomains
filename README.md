@@ -1,7 +1,7 @@
 # lizizakson_commonalitiesAcrossDomains
 
 ## Summary
-I'm a PhD student at Sagol School of Neuroscience, Tel Aviv University. I hold a B.Sc. in psychobiology from the Hebrew University of Jerusalem. I continued to an M.Sc. in brain and behavioral sciences in Ami Citri's lab at the Hebrew University, where I aimed to find the specific neural ensembles in the reward circuitry which are involved in encoding cocaine experience. Following the research experience I gained, I concluded that my passion is neuroscientific human research and specifically decision-making. In my first project, I'm trying to find a potential link between the mechanisms of perceptual decision making and value-based decision making in order to understand the neural basis of decision heuristics such as decoy effect. I'm going to use behavioral and fMRI tasks.
+I'm a PhD student at Sagol School of Neuroscience, Tel Aviv University. I hold a B.Sc. in psychobiology from the Hebrew University of Jerusalem. I continued to an M.Sc. in brain and behavioral sciences in Ami Citri's lab at the Hebrew University, where I aimed to find the specific neural ensembles in the reward circuitry which are involved in encoding cocaine experience. Following the research experience I gained, I concluded that my passion is neuroscientific human research and specifically decision-making. In my first project, I'm trying to find a potential link between the mechanisms of perceptual decision making and value-based decision making in order to understand the neural basis of decision heuristics such as decoy effect. I'm using behavioral and fMRI tasks.
 Outside the lab, I enjoy theater and improvisation classes, strategy games with friends, yoga and running.
 
 # Project definition
