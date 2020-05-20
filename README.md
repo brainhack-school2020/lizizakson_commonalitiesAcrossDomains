@@ -1,4 +1,4 @@
 # lizizakson_commonalitiesAcrossDomains
-Investigate neural commonalities between perceptual and value-based processing using open data sources, ML and maybe DL as well.
-Maybe also examine the hierarchy beteen perceptual and value-based processes.
-Open to ideas and collaborations:)
+Investigate neural commonalities value-based and social-based task (using the HCP data).
+Trying to predict the Gambling task result using the social-related neural activity and vice versa.
+A second possibility is to classify the resting state data accrding to character features.
