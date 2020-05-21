@@ -1,4 +1,5 @@
 # lizizakson_commonalitiesAcrossDomains
+![Image of Human and Brain](https://github.com/brainhack-school2020/lizizakson_commonalitiesAcrossDomains/blob/master/human_brain.jpg)
 
 ## Intoduction
 I am a 3rd-year PhD student at Sagol School of Neuroscience, Tel Aviv University, Israel. I hold a B.Sc. in psychobiology from the Hebrew University of Jerusalem. I continued to an M.Sc. in brain and behavioral sciences in Ami Citri's lab at the Hebrew University, where I aimed to find the specific neural ensembles in the reward circuitry which are involved in encoding cocaine experience. Following the research experience I gained, I concluded that my passion is neuroscientific human research and specifically decision-making. Therefore, I continued to a PhD in Dino Levy's lab where I examine commonalities between perceptual and value-based processes in order to better understand the neural basis of decision heuristics such as context effects. I use behavioral and fMRI tasks.
