@@ -16,7 +16,7 @@ During the two first years of my PhD, I was concentrating on examining common me
 
 
 ## Project definition
-The big goal (which I probably would not be able to finish in such limited time) is to use different levels of complexity of DL models in order to predict behavior in different domains using the neural activity that was gained during the task. Specifically, I would like to examine the motor task versus the value-based task from the Human Connectome Project (HCP) data set.
+The big goal (which I probably would not be able to finish in such limited time) is to use different levels of complexity of DL models in order to predict behavior in different domains using the neural activity that was gained during the task. Specifically, I would like to examine the motor-sensory task versus the value-based task from the Human Connectome Project (HCP) data set.
 A smaller aim is to build a model to predict the results in the gambling task (gamble/not gamble) using the neural activity.
 
 Then, beacuse I am a bit confused person with too many things going in my mind, there is also this plan (let's say plan c):
