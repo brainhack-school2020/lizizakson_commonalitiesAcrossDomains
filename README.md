@@ -11,8 +11,7 @@ Outside the lab, I enjoy theater and improvisation classes, strategy games with 
 During the two first years of my PhD, I was concentrating on examining common mechanisms between perceptual and value-based processes. While finding some interesting commonalities, it was hard to ignore the major differences as well. Trying to make sense out of it, I found [this](https://pubmed.ncbi.nlm.nih.gov/28680161/) great review by Robert P Spunt and Ralph Adolphs from CIT. This review concerns with mechanisms of generaliztion across domains versus specificity of domains. When I was reading it, I was thinking that there might be a common bedding across different domains (e.g. sensory vs. value) but upon this there is also a degree of specification that differntiate between them. An interesting analogy to this is the different complexity levels of deep learning networks that can have a lot of commonalities at certain stages but also a lot of differences at other stages. 
 
 ![Image of DL networks](https://github.com/brainhack-school2020/lizizakson_commonalitiesAcrossDomains/blob/master/Images_ReadME/DL_networks.jpg)
-
-
+Adapted from Spunt & Adolphs, NATURE REVIEWS, 2017
 
 
 ## Project definition
